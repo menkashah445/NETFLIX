@@ -1,0 +1,120 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    tools:context="MainScreen.MainScreen">
+
+
+<androidx.appcompat.widget.Toolbar
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:theme="@style/Theme.AppCompat.Light.Dialog"
+    android:background="@color/black"
+    tools:ignore="MissingConstraints">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black">
+
+        <ImageView
+            android:id="@+id/netflixlogo"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="3dp"
+            android:src="@drawable/ic_logo_netflix"/>
+
+
+
+        <TextView
+            android:id="@+id/privacytextview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_toEndOf="@+id/netflixlogo"
+            android:text="PRIVACY"
+            android:textColor="#fff"
+            android:textSize="16sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/helptextview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="147dp"
+            android:layout_marginTop="15dp"
+            android:layout_toEndOf="@+id/netflixlogo"
+            android:text="HELP"
+            android:textColor="#fff"
+            android:textSize="16sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/signintextview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="210dp"
+            android:layout_marginTop="15dp"
+            android:layout_toEndOf="@+id/netflixlogo"
+            android:text="SIGN IN"
+            android:textColor="#fff"
+            android:textSize="16sp"
+            android:textStyle="bold">
+
+        </TextView>
+    </RelativeLayout>
+</androidx.appcompat.widget.Toolbar>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpagerswipescreen"
+        android:layout_width="match_parent"
+        android:layout_height="586dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginBottom="63dp">
+
+    </androidx.viewpager.widget.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/sliderdots"
+        android:layout_width="340dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="650dp"
+        android:layout_marginBottom="63dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+     </RelativeLayout>
+
+    <Button
+        android:id="@+id/getstarted"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="24dp"
+        android:background="@color/activedots"
+        android:text="GET STARTED"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

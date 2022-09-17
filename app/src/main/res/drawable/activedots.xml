@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" android:dither="true" android:useLevel="true"
+    tools:ignore="ExtraText">
+
+    <size android:height="12dp" android:width="12dp">
+
+    </size>
+    <solid android:color="@color/activedots">
+    </solid>
+</shape>

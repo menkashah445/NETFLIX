@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/activedots.xml" value="0.1045" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/button_stroke.xml" value="0.1225" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/ic_baseline_radio_button_unchecked_24.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/inactivedots.xml" value="0.1045" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/linearlayoutstroke.xml" value="0.1225" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/drawable/netflixicontext.xml" value="0.1075" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_choose_your_plan.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_finish_account.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_main_screen.xml" value="0.196875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_payment_gate_way.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_plan.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_splash_screen.xml" value="0.10750695088044486" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_step_one.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_step_one2.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_step_three.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_step_two.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_steptwo.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/activity_swipe.xml" value="0.196875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/custom_layout.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/lockscreen.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/paymenttoolbar.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/toolbar_stepone.xml" value="0.203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/toolbarsignin.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Netflix2/app/src/main/res/layout/toolbarstepthree.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
